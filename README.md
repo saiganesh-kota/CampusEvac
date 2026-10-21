@@ -1,9 +1,6 @@
 # CampusEvac
 
 A two-player, real-time fire evacuation simulation that runs entirely in the browser.
-
-GitHub: https://github.com/AfreenInnovates/campus<br>
-Demo video: https://youtu.be/FhgTfCz0ou8<br>
 Try it: https://main.d3skpx6qxc85hh.amplifyapp.com/
 
 ### The problem
@@ -77,10 +74,6 @@ flowchart LR
 ### Impact
 
 CampusEvac turns evacuation training from a once-a-semester disruption into something a school or office can run repeatedly, at no marginal cost, without evacuating the actual building. It's the first drill format we've seen that treats the evacuee and the warden as one problem instead of two, which is the part real drills consistently skip and the part that decides how an actual emergency goes.
-
-### Status
-
-Built for AWS x [WeMakeDevs](https://www.wemakedevs.org/). The core loop - lobby, sync, drill, verification, report - is fully working end to end.
 
 ### Images
 
